@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_portal">
+    <sp_portal action="INSERT_OR_UPDATE">
+        <css_variables>$brand-primary:#428bca;
+$body-bg:#ffffff;
+$state-success-text:#5cb85c;
+$sp-homepage-bg:#fff;
+$sp-navbar-divider-color:#455464;
+$text-color:#717171;
+$sp-logo-margin-y:.5rem;
+$navbar-inverse-link-hover-color:#000000;
+$panel-bg:#fff;
+$brand-success:#5cb85c;
+$navbar-inverse-bg:#83bfff;
+$brand-warning:#f0ad4e;
+$brand-danger:#d9534f;
+$sp-tagline-color:#717171;
+$navbar-inverse-link-color:#000000;
+$brand-info:#5bc0de;
+$link-color:#428bca;
+$sp-logo-margin-x:15px;
+$btn-default-bg:#fff;
+$text-muted:#979797;
+</css_variables>
+        <default>true</default>
+        <homepage display_value="movimientos_de_personal">234fc14ddb1500104e439fd2ca961927</homepage>
+        <icon/>
+        <kb_knowledge_base/>
+        <kb_knowledge_page display_value="bhome">b83d12f65b4132003d1c484c11f91ab2</kb_knowledge_page>
+        <login_page display_value="cab_workbench">4cf180b89f131200b18a7feea57fcfdc</login_page>
+        <logo>7384ec45db9100104e439fd2ca96198f</logo>
+        <notfound_page display_value="approvals">d3485112cb13310000f8d856634c9c3e</notfound_page>
+        <quick_start_config/>
+        <sc_catalog/>
+        <sc_catalog_page display_value="clocks">bc09c93ecb01120000f8d856634c9ccd</sc_catalog_page>
+        <sc_category_page/>
+        <sp_chat_queue/>
+        <sp_rectangle_menu display_value="SP Config Menu">061c4c9747101200ba13a5554ee49084</sp_rectangle_menu>
+        <sqanda_knowledge_base display_value="IT">a7e8a78bff0221009b20ffffffffff17</sqanda_knowledge_base>
+        <sys_class_name>sp_portal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-21 19:31:13</sys_created_on>
+        <sys_id>ce342885db9100104e439fd2ca961906</sys_id>
+        <sys_mod_count>13</sys_mod_count>
+        <sys_name>Recursos Humanos</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sp_portal_ce342885db9100104e439fd2ca961906</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-21 22:49:35</sys_updated_on>
+        <theme display_value="Stock">79315153cb33310000f8d856634c9c4b</theme>
+        <title>Recursos Humanos</title>
+        <ts_index_group/>
+        <url_suffix>RecursosHumanos</url_suffix>
+    </sp_portal>
+    <sys_translated_text action="delete_multiple" query="documentkey=ce342885db9100104e439fd2ca961906"/>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color>#3087</average_image_color>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>logo</file_name>
+        <hash>d99e6cf0abaa6da50c72609df3ac3339c01c37cd0c148de80b660943f416257f</hash>
+        <image_height>80</image_height>
+        <image_width>200</image_width>
+        <size_bytes>4155</size_bytes>
+        <size_compressed>4074</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-21 19:30:36</sys_created_on>
+        <sys_id>7384ec45db9100104e439fd2ca96198f</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-21 19:30:36</sys_updated_on>
+        <table_name>ZZ_YYsp_portal</table_name>
+        <table_sys_id>ce342885db9100104e439fd2ca961906</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="logo" sys_id="7384ec45db9100104e439fd2ca96198f">7384ec45db9100104e439fd2ca96198f</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-21 19:30:36</sys_created_on>
+        <sys_id>b384ec45db9100104e439fd2ca96198f</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>5420</length>
+        <position>1</position>
+        <sys_attachment display_value="logo" sys_id="7384ec45db9100104e439fd2ca96198f">7384ec45db9100104e439fd2ca96198f</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-21 19:30:36</sys_created_on>
+        <sys_id>3784ec45db9100104e439fd2ca96198f</sys_id>
+    </sys_attachment_doc>
+</record_update>
